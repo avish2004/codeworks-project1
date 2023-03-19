@@ -3,7 +3,7 @@
 // Author      : AV
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Ansi-style
 //============================================================================
 
 #include <iostream>
